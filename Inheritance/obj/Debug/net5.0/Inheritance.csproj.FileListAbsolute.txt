@@ -1,0 +1,16 @@
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_7 Classes\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
