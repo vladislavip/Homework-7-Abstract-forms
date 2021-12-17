@@ -45,11 +45,12 @@ namespace Inheritance
             cylinder.Height = Convert.ToDouble(Console.ReadLine());
 
 
-           Console.WriteLine("Type Paralepiped side");
+           Console.WriteLine("Type Paralepiped side 1");
             paralipiped.Side = Convert.ToDouble(Console.ReadLine());
-
-
-
+            Console.WriteLine("Type Paralepiped side 1");
+            paralipiped.Side1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Type Paralepiped side 1");
+            paralipiped.Side2 = Convert.ToDouble(Console.ReadLine());
 
             double  conecircarea = cone.CircleEdgeArea(cone.Radius);
 
@@ -75,11 +76,11 @@ namespace Inheritance
 
 
 
-            double paralelipipedvolume = paralipiped.Volume(paralipiped.Side);
+            double paralelipipedvolume = paralipiped.Volume(paralipiped.Side, paralipiped.Side1, paralipiped.Side2);
             Console.WriteLine($"Paralelipiped volume is {paralelipipedvolume}");
 
 
-            double papalelipipedarea = paralipiped.Area(paralipiped.Side);
+            double papalelipipedarea = paralipiped.Area(paralipiped.Side, paralipiped.Side1, paralipiped.Side2);
 
             Console.WriteLine($"Paralelipiped total area  is {papalelipipedarea}");
 

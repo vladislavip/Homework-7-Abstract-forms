@@ -12,19 +12,19 @@ namespace Inheritance
         //         V = a x b x c;
         //         S(tam) = 2 x(ab + bc + ac)
 
-        public double Volume(double side)
+        public double Volume(double side,double side1,double side2)
 
         {
-            double v = Math.Pow(side, 3);
+            double v = side * side1 * side2;
 
             return v;
 
         }
 
-        public double Area(double side)
+        public double Area(double side,double side1, double side2)
 
         {
-            double v = Math.Pow(side, 3);
+            double v = 2*(side*side1+side1*side2+side*side2);
 
             return v;
         }
